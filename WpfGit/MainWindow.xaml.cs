@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace WpfGit
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xamlc
     /// </summary>
     public partial class MainWindow : Window
     {
